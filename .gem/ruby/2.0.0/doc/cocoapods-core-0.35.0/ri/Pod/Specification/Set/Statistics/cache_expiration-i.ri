@@ -1,0 +1,4 @@
+U:RDoc::Attr[iI"cache_expiration:ETI"9Pod::Specification::Set::Statistics#cache_expiration;FI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"F@return [Integer] the number of seconds after which the caches of;To:RDoc::Markup::Verbatim;	[I".values that might changed are discarded.
+;T:@format0o;
+;	[I"C@note   If not specified on initialization defaults to 3 days.;T:
+@fileI"7lib/cocoapods-core/specification/set/statistics.rb;T:0@omit_headings_from_table_of_contents_below0F@I"(Pod::Specification::Set::Statistics;FcRDoc::NormalClass0

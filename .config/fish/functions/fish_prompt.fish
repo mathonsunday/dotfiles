@@ -1,0 +1,1 @@
+/Users/vray/.config/fisherman/sol/fish_prompt.fish

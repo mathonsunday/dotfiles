@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"plugin_paths:ETI"1CLAide::Command::PluginsHelper::plugin_paths;FI"R;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"F@return [Array<Pathname>] The list of the root directories of the;To:RDoc::Markup::Verbatim;	[I"loaded plugins.;T:@format0:
+@fileI")lib/claide/command/plugins_helper.rb;T:0@omit_headings_from_table_of_contents_below0T@I"#CLAide::Command::PluginsHelper;FcRDoc::NormalClass0

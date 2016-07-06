@@ -1,0 +1,1 @@
+/Users/vray/.config/fisherman/await/functions/await.fish

@@ -1,0 +1,3 @@
+#!/Users/vray/.rubies/ruby-2.0.0-p247/bin/ruby
+require 'test/unit'
+exit Test::Unit::AutoRunner.run(true)

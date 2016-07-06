@@ -1,0 +1,38 @@
+b41450a52c096af8794df0eb0c09bd1d4bf1cdf1		branch '0-6-stable' of https://github.com/gregbell/active_admin
+4377eb40d16e7c008e6636028275492f97f1d57a		branch '2138_improve_attributes_table' of https://github.com/gregbell/active_admin
+b592589d1eebfd6f08465238ef6b35e738f4d97a		branch 'base_filter_support_for_custom_ransackers' of https://github.com/gregbell/active_admin
+e5caa274774d4746254d54b012dcf284a25eba8d		branch 'csv_byte_order_mark' of https://github.com/gregbell/active_admin
+2a09a687902e381738e129eb84d95671858dfb0c		branch 'fix_batch_action_context' of https://github.com/gregbell/active_admin
+2d16b8f88653bdcf18d1e9be64356a7ba6912c07		branch 'generator-refactor' of https://github.com/gregbell/active_admin
+f44664a8536b149b2cf95c9da03370f329efc51d		branch 'iso_nb' of https://github.com/gregbell/active_admin
+944af76ace89f941a7baa92775854d2e1d0e6dba		branch 'master' of https://github.com/gregbell/active_admin
+6c3f25265949d1741c23c8e88e78074be2bf645d		branch 'remove_metasearch_backports' of https://github.com/gregbell/active_admin
+6ab0844ceddbf992cfb1c95ee984a401cf27bc3b		branch 'remove_minitest_have_tag' of https://github.com/gregbell/active_admin
+1ba1ce97176f65bd9b5fb4766ebd5cbae6cdd65c		branch 'root_to_helper_name' of https://github.com/gregbell/active_admin
+47bf37507c11e5b34de5087e94538b7c0f1339f1		branch 'router_refactoring' of https://github.com/gregbell/active_admin
+94560abb71cff2691d448f40916fb4965ee5d57f		branch 'test-more-rubies' of https://github.com/gregbell/active_admin
+d8ed6941ef063a52b8105fccd5f7afd523ecc379		branch 'travis-docker' of https://github.com/gregbell/active_admin
+9d9008c830abe1252a5498fdf207b7861384084b	not-for-merge	tag 'v0.1.0' of https://github.com/gregbell/active_admin
+b1edc43f9a52031418f9b9a6f8f7c58aedb064bb	not-for-merge	tag 'v0.1.1' of https://github.com/gregbell/active_admin
+51b06d27169ec0cd481d7e2377a4131460db3ef6	not-for-merge	tag 'v0.2.0' of https://github.com/gregbell/active_admin
+58b60016dcc40d9365dff0efebcbf03794af3b96	not-for-merge	tag 'v0.2.1' of https://github.com/gregbell/active_admin
+15f68a2b22302c14cfbe69a11a8da1d829e199ab	not-for-merge	tag 'v0.2.2' of https://github.com/gregbell/active_admin
+4ee0fc51b17dae3a2ee58fee5aeac3a8acd6df30	not-for-merge	tag 'v0.3.0' of https://github.com/gregbell/active_admin
+873c1835589052d6d289184e72bd38c1b05044c3	not-for-merge	tag 'v0.3.1' of https://github.com/gregbell/active_admin
+e29e930650fa0a8d80618ae4a366de4cbc8982be	not-for-merge	tag 'v0.3.2' of https://github.com/gregbell/active_admin
+03b3c4b28b2c6ad969feeb057623691de591f05a	not-for-merge	tag 'v0.3.3' of https://github.com/gregbell/active_admin
+7172022d73960036c40f7e5d1add5c306c7a333f	not-for-merge	tag 'v0.3.4' of https://github.com/gregbell/active_admin
+c9f85f947f1f796f03af1c244dc7c4908f812741	not-for-merge	tag 'v0.4.0' of https://github.com/gregbell/active_admin
+c219b147ffa0f20677628d1ad3c50362ff5a35c9	not-for-merge	tag 'v0.4.1' of https://github.com/gregbell/active_admin
+98f8cf5d9f5a1a3c1ed91ba7398f4d52a49ff089	not-for-merge	tag 'v0.4.2' of https://github.com/gregbell/active_admin
+17c46728f8422bac0f3dd70f9ce1ba4e05e58f6d	not-for-merge	tag 'v0.4.3' of https://github.com/gregbell/active_admin
+b39c1106b7b78ab6a47216677515c5e9829f10bc	not-for-merge	tag 'v0.4.3.1' of https://github.com/gregbell/active_admin
+15ed2123bd5513195a4fcbb84b0a586e3049474c	not-for-merge	tag 'v0.4.4' of https://github.com/gregbell/active_admin
+7f26ffb376f5f0d34996bccc6f974d3d006b7a05	not-for-merge	tag 'v0.5.0' of https://github.com/gregbell/active_admin
+0c2c5d5a829128ec956ee4f12c8dbe089edc795d	not-for-merge	tag 'v0.5.0.pre' of https://github.com/gregbell/active_admin
+48abd172b3b07eac6b273804359f0bead972eb86	not-for-merge	tag 'v0.5.0.pre1' of https://github.com/gregbell/active_admin
+5d4a0ae3d5ca2c4687a63bb17aefb06afdaa8298	not-for-merge	tag 'v0.5.1' of https://github.com/gregbell/active_admin
+4bd80ec4bc555d294016c75b0e06cfada80f09fb	not-for-merge	tag 'v0.6.0' of https://github.com/gregbell/active_admin
+d5435ba32c5cf71baacd8db98675a7eaecf1ba99	not-for-merge	tag 'v0.6.1' of https://github.com/gregbell/active_admin
+6ecdabe2c84f627510fbab83fe67570270830241	not-for-merge	tag 'v0.6.2' of https://github.com/gregbell/active_admin
+6ee76d489308ebfee7f5ab8e3ea5613e740c019d	not-for-merge	tag 'v0.6.3' of https://github.com/gregbell/active_admin

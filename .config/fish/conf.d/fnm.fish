@@ -1,0 +1,1 @@
+/Users/vray/.config/fisherman/fnm/conf.d/fnm.fish

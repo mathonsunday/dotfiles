@@ -1,0 +1,140 @@
+GIT
+  remote: https://github.com/CocoaPods/CLAide.git
+  revision: b1eccc296b68b1a432e42ecf0c4b799d8551c75c
+  branch: master
+  specs:
+    claide (0.7.0)
+
+GIT
+  remote: https://github.com/CocoaPods/CocoaPods.git
+  revision: 1703a3464674baecf54bd7e766f4b37ed8fc43f7
+  branch: master
+  specs:
+    cocoapods (0.35.0.rc2)
+      activesupport (>= 3.2.15)
+      claide (~> 0.7.0)
+      cocoapods-core (= 0.35.0.rc2)
+      cocoapods-downloader (~> 0.8.0)
+      cocoapods-plugins (~> 0.3.1)
+      cocoapods-trunk (~> 0.4.0)
+      cocoapods-try (~> 0.4.2)
+      colored (~> 1.2)
+      escape (~> 0.0.4)
+      molinillo (~> 0.1.1)
+      nap (~> 0.8)
+      open4 (~> 1.3)
+      xcodeproj (~> 0.20.2)
+
+GIT
+  remote: https://github.com/CocoaPods/Core.git
+  revision: 60a486e8141323390dc5ff7f6676cf893a251a48
+  branch: master
+  specs:
+    cocoapods-core (0.35.0.rc2)
+      activesupport (>= 3.2.15)
+      fuzzy_match (~> 2.0.4)
+      nap (~> 0.8.0)
+
+PATH
+  remote: .
+  specs:
+    cocoapods-trunk (0.4.1)
+      nap (>= 0.8)
+      netrc (= 0.7.8)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (4.1.8)
+      i18n (~> 0.6, >= 0.6.9)
+      json (~> 1.7, >= 1.7.7)
+      minitest (~> 5.1)
+      thread_safe (~> 0.1)
+      tzinfo (~> 1.1)
+    ast (2.0.0)
+    astrolabe (1.3.0)
+      parser (>= 2.2.0.pre.3, < 3.0)
+    bacon (1.2.0)
+    cocoapods-downloader (0.8.0)
+    cocoapods-plugins (0.3.2)
+      nap
+    cocoapods-try (0.4.2)
+    codeclimate-test-reporter (0.4.1)
+      simplecov (>= 0.7.1, < 1.0.0)
+    colored (1.2)
+    docile (1.1.5)
+    escape (0.0.4)
+    ffi (1.9.6)
+    fuzzy_match (2.0.4)
+    i18n (0.6.11)
+    json (1.7.7)
+    kicker (3.0.0)
+      listen (~> 1.3.0)
+      notify (~> 0.5.2)
+    listen (1.3.1)
+      rb-fsevent (>= 0.9.3)
+      rb-inotify (>= 0.9)
+      rb-kqueue (>= 0.2)
+    metaclass (0.0.4)
+    minitest (5.4.3)
+    mocha (1.1.0)
+      metaclass (~> 0.0.1)
+    mocha-on-bacon (0.2.2)
+      mocha (>= 0.13.0)
+    molinillo (0.1.1)
+    multi_json (1.10.1)
+    nap (0.8.0)
+    netrc (0.7.8)
+    notify (0.5.2)
+    open4 (1.3.4)
+    parser (2.2.0.pre.7)
+      ast (>= 1.1, < 3.0)
+      slop (~> 3.4, >= 3.4.5)
+    powerpack (0.0.9)
+    prettybacon (0.0.2)
+      bacon (~> 1.2)
+    rainbow (2.0.0)
+    rake (10.3.2)
+    rb-fsevent (0.9.4)
+    rb-inotify (0.9.5)
+      ffi (>= 0.5.0)
+    rb-kqueue (0.2.3)
+      ffi (>= 0.5.0)
+    rubocop (0.27.1)
+      astrolabe (~> 1.3)
+      parser (>= 2.2.0.pre.7, < 3.0)
+      powerpack (~> 0.0.6)
+      rainbow (>= 1.99.1, < 3.0)
+      ruby-progressbar (~> 1.4)
+    ruby-progressbar (1.7.0)
+    simplecov (0.9.1)
+      docile (~> 1.1.0)
+      multi_json (~> 1.0)
+      simplecov-html (~> 0.8.0)
+    simplecov-html (0.8.0)
+    slop (3.6.0)
+    thread_safe (0.3.4)
+    tzinfo (1.2.2)
+      thread_safe (~> 0.1)
+    xcodeproj (0.20.2)
+      activesupport (>= 3)
+      colored (~> 1.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  bacon
+  bundler (~> 1.3)
+  claide!
+  cocoapods!
+  cocoapods-core!
+  cocoapods-trunk!
+  codeclimate-test-reporter
+  json (= 1.7.7)
+  kicker
+  mocha
+  mocha-on-bacon
+  prettybacon
+  rake
+  rubocop

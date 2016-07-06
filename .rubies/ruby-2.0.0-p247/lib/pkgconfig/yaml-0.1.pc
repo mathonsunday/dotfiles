@@ -1,0 +1,10 @@
+prefix=/Users/vray/.rubies/ruby-2.0.0-p247
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: LibYAML
+Description: Library to parse and emit YAML
+Version: 0.1.6
+Cflags:
+Libs: -L${libdir} -lyaml
