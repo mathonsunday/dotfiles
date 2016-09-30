@@ -13,6 +13,7 @@ brew 'grc'
 brew ‘hugo’
 brew 'imagemagick'
 brew 'jp2a'
+brew 'mackup'
 brew ‘mergepbx’
 brew ‘mysql’
 brew 'node'
