@@ -1,6 +1,6 @@
 # Steps To Set Up A New Mac 
 
-In the future I will have an install script, but for now you'll need to do these steps. 
+In the future I will have an install script to reduce the number of steps. 
 
 * Install Xcode from the App store. After installing it, open it and accept the license agreement. This is necessary to use some of the command line tools 
 * Install the command line tools by running `xcode-select --install`
