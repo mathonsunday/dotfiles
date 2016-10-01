@@ -6,7 +6,7 @@ In the future I will have an install script to reduce the number of steps.
 * Install the command line tools by running `xcode-select --install`
 * Copy your SSH keys to your ~/.ssh folder and make sure they have the correct permissions. I store the files for my SSH keys in [Keeper](https://keepersecurity.com)
 * Clone this repo to `~/.dotfiles` and cd into it
-* Add Fish to /etc/shells, which will require an administrative password
+* Add [Fish](https://fishshell.com/) to /etc/shells, which will require an administrative password
 ```
 echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
 ```
@@ -28,7 +28,7 @@ chsh -s /usr/local/bin/fish
 ```
 ./.macos
 ```
-* Make sure Dropbox (or whatever synced storage you've chosen for Mackup) is set up and install your remaining apps from the App Store.
+* Make sure Dropbox (or whatever synced storage you've chosen for [Mackup](https://github.com/lra/mackup)) is set up and install your remaining apps from the App Store
 * Restore app preferences
 ```
  mackup restore
