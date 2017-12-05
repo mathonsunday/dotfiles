@@ -1,3 +1,5 @@
+# NOTE: This is out of date and no longer actively maintained. It was great for learning how dotfiles work but I have a fork of Mathias Bynens's current dotfiles that I will be using for myself in the future. 
+
 # Steps To Set Up A New Mac 
 
 In the future I will have an install script to reduce the number of steps. 
